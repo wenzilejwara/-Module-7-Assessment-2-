@@ -1,0 +1,97 @@
+#menu-bar a{
+    text-decoration: none;
+    color: black;
+    font-weight: 800;
+    font-size: 14px;
+    font-family: Helvetica, sans-serif;
+    
+    background-image: url('images/menu-button-hover.gif');
+    background-repeat: no-repeat;
+    display:block;
+    width: 128px;
+    height: 25px;
+    padding-left: 18px;
+    padding-top: 2px;
+    
+    float: left;
+}
+
+.body-home{
+    background-image: url('images/resto.jpg');
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+#menu-bar a:hover{
+    background-image: url('images/menu-button-hover.gif');
+    color:    
+}
+
+ h1{
+    color:red;
+    font-family:sans-serif;
+}
+
+p{
+     color:black;
+    font-family:sans-serif;
+}
+
+h1{
+    color:black;
+    font-family:monospace;
+}
+
+p{
+    color:black;
+    font-family:latin;
+}
+
+
+ul{
+    list-style-image: url(images/pointer-icon.png);
+}
+
+ol{
+    list-style-type: upper-roman;
+}
+a{
+      font-family     : Helvetica, sans-serif;
+      text-decoration : none;
+      background-color: 
+      padding         : 5px;
+}
+ a:hover{
+      background-color: aqua;
+      color           : #ffffff;
+}
+table{
+    font-family: Helvetica, sans-serif;
+    border-collapse: collapse;
+    border-width: 1px;
+    border-style:solid
+    border-color: #2695A6;
+}
+
+th{
+    font-weight: 800;
+    background-color: lightcoral;
+    color: #ffffff;
+}
+
+h2{
+    color: black;
+}
+
+
+.body-menu{
+    background-image: url('images/Restaurant-logo-design-.jpg');
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
